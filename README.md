@@ -21,7 +21,7 @@ A fitness website built using Node.js and Express.js, with HTML, CSS, and JavaSc
 - JavaScript
 
 ## Project Structure
-
+```text
 Fitness-App-Express/
 ├── public/
 │ ├── images/
