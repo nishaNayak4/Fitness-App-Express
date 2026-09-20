@@ -52,3 +52,7 @@ Fitness-App-Express/
 ## Project
 
 This project was created to practice building a web application using Express.js and frontend technologies.
+
+## Note: Fictional Prototype
+
+This project uses placeholder stock images from Pexels solely for portfolio and pactice purposes.
