@@ -56,3 +56,7 @@ This project was created to practice building a web application using Express.js
 ## Note: Fictional Prototype
 
 This project uses placeholder stock images from Pexels solely for portfolio and pactice purposes.
+
+## Live Demo 
+
+[View Live Website](https://fitness-app-express.onrender.com)
