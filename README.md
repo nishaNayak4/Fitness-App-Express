@@ -20,8 +20,8 @@ A fitness website built using Node.js and Express.js, with HTML, CSS, and JavaSc
 - CSS
 - JavaScript
 
+```
 ## Project Structure
-```text
 Fitness-App-Express/
 ├── public/
 │ ├── images/
@@ -36,6 +36,7 @@ Fitness-App-Express/
 ├── package.json
 ├── package-lock.json
 └── .gitignore
+```
 
 ## How to Run
 
