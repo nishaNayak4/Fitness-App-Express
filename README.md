@@ -22,7 +22,7 @@ A fitness website built using Node.js and Express.js, with HTML, CSS, and JavaSc
 
 
 ## Project Structure
-```
+
 Fitness-App-Express/
 ├── public/
 │ ├── images/
@@ -43,13 +43,9 @@ Fitness-App-Express/
 
 1. Clone the repository.
 2. Open the project folder in VS Code.
-3. Install the dependencies:
+3. Install the dependencies : npm install
 
-npm install
-
-4. Start the server:
-
-node index.js
+4. Start the server: node index.js
 
 5. Open the local URL shown in the terminal.
 
