@@ -1,8 +1,8 @@
-Fitness App Express
+#Fitness App Express
 
 A fitness website built using Node.js and Express.js, with HTML, CSS, and JavaScript.
 
-Features
+##Features
 
 - Home page
 - About page
@@ -12,7 +12,7 @@ Features
 - Nutrition information
 - Images and responsive styling
 
-Technologies Used
+##Technologies Used
 
 - Node.js
 - Express.js
@@ -20,7 +20,7 @@ Technologies Used
 - CSS
 - JavaScript
 
-Project Structure
+##Project Structure
 
 Fitness-App-Express/
 ├── public/
@@ -37,7 +37,7 @@ Fitness-App-Express/
 ├── package-lock.json
 └── .gitignore
 
-How to Run
+##How to Run
 
 1. Clone the repository.
 2. Open the project folder in VS Code.
@@ -51,6 +51,6 @@ node index.js
 
 5. Open the local URL shown in the terminal.
 
-Project
+##Project
 
 This project was created to practice building a web application using Express.js and frontend technologies.
